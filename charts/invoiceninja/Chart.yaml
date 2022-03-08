@@ -23,7 +23,7 @@ keywords:
 home: https://invoiceninja.github.io/dockerfiles
 sources:
   - https://github.com/invoiceninja/invoiceninja
-  - https://github.com/invoiceninja/dockerfiles
+  - https://github.com/StS82/dockerfiles
 dependencies:
   - name: common
     repository: https://charts.bitnami.com/bitnami
